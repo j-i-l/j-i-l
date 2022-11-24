@@ -8,4 +8,4 @@
 
 
 ### [StackOverflow](https://stackoverflow.com/users/1622937/jojo)
-![Also on SO](https://se-flair.appspot.com/1779931@2x.png)
+![Also on SO](https://se-flair.appspot.com/1779931@1x.png)
