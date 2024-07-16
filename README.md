@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats-h7qj.vercel.app/api?username=j-i-l&show_icons=true&count_private=true&line_height=28&hide_border=true&hide_title=true&card_width=450&include_orgs=true&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="hit refresh!" />
 </a>
 <a href="https://github.com/j-i-l">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-i-l&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&include_orgs=true&exclude_repo=SwissR0&hide_title=true&theme=default#gh-light-mode-only" alt="hit refresh!" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-i-l&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&include_orgs=true&exclude_repo=SwissR0,ReviewedGrapes&hide_title=true&theme=default#gh-light-mode-only" alt="hit refresh!" />
 </a>
 
 
