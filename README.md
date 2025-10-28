@@ -20,6 +20,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-i-l&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&include_orgs=true&exclude_repo=SwissR0,ReviewedGrapes&hide_title=true&theme=default#gh-light-mode-only" alt="hit refresh!" />
 </a>
 
-
-### [StackOverflow](https://stackoverflow.com/users/1622937/jojo)
 ![Also on SO](https://se-flair.appspot.com/1779931@1x.png)
