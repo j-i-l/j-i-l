@@ -33,6 +33,8 @@
 * **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** ![Stars](https://img.shields.io/github/stars/tensorflow/tensorflow?style=flat-square&logo=github&label=Stars&color=yellow) — Fix `keras.Model.compile` docstring ([PR #48792](https://github.com/tensorflow/tensorflow/pull/48792))
 * **[numpy/numpy](https://github.com/numpy/numpy)** ![Stars](https://img.shields.io/github/stars/numpy/numpy?style=flat-square&logo=github&label=Stars&color=yellow) — Expand `np.select` documentation with `default` value example ([PR #20015](https://github.com/numpy/numpy/pull/20015))
 
+<!--
+
 **Other Open Source Contributions (15+ Stars)**
 * **[dps/remarkable-wikipedia](https://github.com/dps/remarkable-wikipedia)** ![Stars](https://img.shields.io/github/stars/dps/remarkable-wikipedia?style=flat-square&logo=github&label=Stars&color=yellow)
 * **[py-cov-action/python-coverage-comment-action](https://github.com/py-cov-action/python-coverage-comment-action)** ![Stars](https://img.shields.io/github/stars/py-cov-action/python-coverage-comment-action?style=flat-square&logo=github&label=Stars&color=yellow)
@@ -42,6 +44,8 @@
 * **[t4d-gmbh/MajorTrack](https://github.com/t4d-gmbh/MajorTrack)** ![Stars](https://img.shields.io/github/stars/t4d-gmbh/MajorTrack?style=flat-square&logo=github&label=Stars&color=yellow)
 * **[koonimaru/radialtree](https://github.com/koonimaru/radialtree)** ![Stars](https://img.shields.io/github/stars/koonimaru/radialtree?style=flat-square&logo=github&label=Stars&color=yellow)
 * **[GeoRacoon/GeoRacoon](https://github.com/GeoRacoon/GeoRacoon)** ![Stars](https://img.shields.io/github/stars/GeoRacoon/GeoRacoon?style=flat-square&logo=github&label=Stars&color=yellow)
+
+-->
 
 *See [all my merged external pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aj-i-l+-user%3Aj-i-l) across GitHub.*
 
