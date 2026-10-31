@@ -5,12 +5,17 @@
   <a href="https://www.linkedin.com/in/j-i-l/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <br>
   <a href="https://scholar.google.com/citations?hl=en&user=RbBpRKUAAAAJ&view_op=list_works&sortby=pubdate">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
   </a>
   <a href="https://stackoverflow.com/users/1622937/j-i-l">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" />
   </a>
+  <br
+    ><a href="https://stackexchange.com/users/1779931/jojo">
+  <img src="https://stackexchange.com/users/flair/1779931.png" width="208" height="58" alt="profile for jojo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for jojo on Stack Exchange, a network of free, community-driven Q&amp;A sites" />
+</a>
 </p>
 
 ### GitHub
@@ -48,5 +53,3 @@
 -->
 
 *See [all my merged external pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aj-i-l+-user%3Aj-i-l) across GitHub.*
-
-![Also on SO](https://se-flair.appspot.com/1779931@1x.png)
