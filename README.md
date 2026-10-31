@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/j-i-l/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=RbBpRKUAAAAJ&view_op=list_works&sortby=pubdate">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+  </a>
   <a href="https://stackoverflow.com/users/1622937/j-i-l">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" />
   </a>
@@ -19,7 +22,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-i-l&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&include_orgs=true&exclude_repo=SwissR0,ReviewedGrapes&hide_title=true&theme=default#gh-light-mode-only" alt="hit refresh!" />
 </a>
 
-### Selected Contributions to Popular Projects
+### Selected Contributions to Popular Open Source Projects
 
 **Major Contributions (Features & Bug Fixes)**
 * **[vllm-project/vllm](https://github.com/vllm-project/vllm)** ![Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=flat-square&logo=github&label=Stars&color=yellow) — Enable Dflash support for `Qwen3NextForCausalLM` targets ([PR #45319](https://github.com/vllm-project/vllm/pull/45319))
@@ -30,7 +33,6 @@
 * **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** ![Stars](https://img.shields.io/github/stars/tensorflow/tensorflow?style=flat-square&logo=github&label=Stars&color=yellow) — Fix `keras.Model.compile` docstring ([PR #48792](https://github.com/tensorflow/tensorflow/pull/48792))
 * **[numpy/numpy](https://github.com/numpy/numpy)** ![Stars](https://img.shields.io/github/stars/numpy/numpy?style=flat-square&logo=github&label=Stars&color=yellow) — Expand `np.select` documentation with `default` value example ([PR #20015](https://github.com/numpy/numpy/pull/20015))
 
-<!--
 **Other Open Source Contributions (15+ Stars)**
 * **[dps/remarkable-wikipedia](https://github.com/dps/remarkable-wikipedia)** ![Stars](https://img.shields.io/github/stars/dps/remarkable-wikipedia?style=flat-square&logo=github&label=Stars&color=yellow)
 * **[py-cov-action/python-coverage-comment-action](https://github.com/py-cov-action/python-coverage-comment-action)** ![Stars](https://img.shields.io/github/stars/py-cov-action/python-coverage-comment-action?style=flat-square&logo=github&label=Stars&color=yellow)
@@ -40,7 +42,6 @@
 * **[t4d-gmbh/MajorTrack](https://github.com/t4d-gmbh/MajorTrack)** ![Stars](https://img.shields.io/github/stars/t4d-gmbh/MajorTrack?style=flat-square&logo=github&label=Stars&color=yellow)
 * **[koonimaru/radialtree](https://github.com/koonimaru/radialtree)** ![Stars](https://img.shields.io/github/stars/koonimaru/radialtree?style=flat-square&logo=github&label=Stars&color=yellow)
 * **[GeoRacoon/GeoRacoon](https://github.com/GeoRacoon/GeoRacoon)** ![Stars](https://img.shields.io/github/stars/GeoRacoon/GeoRacoon?style=flat-square&logo=github&label=Stars&color=yellow)
--->
 
 *See [all my merged external pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Aj-i-l+-user%3Aj-i-l) across GitHub.*
 
