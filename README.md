@@ -12,10 +12,12 @@
   <a href="https://stackoverflow.com/users/1622937/j-i-l">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" />
   </a>
-  <br
-    ><a href="https://stackexchange.com/users/1779931/jojo">
-  <img src="https://stackexchange.com/users/flair/1779931.png" width="208" height="58" alt="profile for jojo on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for jojo on Stack Exchange, a network of free, community-driven Q&amp;A sites" />
-</a>
+  <br>
+  <a href="https://stackexchange.com/users/1779931/jojo">
+    <img src="https://stackexchange.com/users/flair/1779931.png" width="122" height="35" alt="profile for jojo on Stack Exchange, a network of free, community-driven Q&amp;A sites" />
+  </a>
+  <br><br>
+  <sub><b>I code for fun and for a living.<br>...in that order!</b></sub>
 </p>
 
 ### GitHub
